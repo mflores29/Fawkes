@@ -1,9 +1,9 @@
 # Fawkes
 Public class Repository for DIG2500C / Spring 2018
 
--[A link to your public class Github Repository](https://github.com/mflores29/Fawkes)
+-[Github Repository](https://github.com/mflores29/Fawkes)
    
--[A link to your Github Pages site](https://github.com/mflores29)
+-[Github Pages site](https://github.com/mflores29)
      
 **-What experience do you have building websites?**
      My experience with building websites is very limited. I have been exposed to the background creative processes and to the amount of work that goes in to developing a website on various occasions, but have never had to do this work or tasks firsthand. However, I am very much so technologically inclined in every aspect of my life and it is something that I am passionate about. I find a natural rhythm when applying my current knowledge to learn a new skill that is a part of our technological ecosystem. Learning to build a website has always been a skill that I have wanted to educate myself on and add to my toolbox in order to become a more resourceful individual and employee in the future.
